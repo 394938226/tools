@@ -1,1 +1,0 @@
-import{l as s,F as a,I as o,G as r,q as l}from"./index-Dl2-V9TU.js";const u={__name:"HomeView",setup(m){return(n,t)=>{const e=s("RouterLink");return o(),a(e,{to:{name:"stm32tools"}},{default:r(()=>t[0]||(t[0]=[l("stm32timer")])),_:1})}}};export{u as default};
